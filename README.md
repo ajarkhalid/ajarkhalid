@@ -21,6 +21,7 @@
 
 - 📫 How to reach me **ajarkhalid@gmail.com**
 
+- 📄 Know about my experiences [My Resume](https://www.dropbox.com/scl/fi/t8eun1dpqmug488ca6dmn/AJAR-KHALID-RESUME.pdf?rlkey=wlcr9z8i9jtqdqt3nqhynzmp8&dl=0)
 - ⚡ Fun fact **I have a unique talent for transforming binary code into laughter, crafting witty programming puns that bring joy to the debugging process!"**
 
 <h3 align="left">Connect with me:</h3>
