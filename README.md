@@ -9,11 +9,11 @@
 
 <p align="right"> <a href="https://twitter.com/its_ajar" target="blank"><img src="https://img.shields.io/twitter/follow/its_ajar?logo=twitter&style=for-the-badge" alt="its_ajar" /></a> </p>
 
+🧑‍💼 About Me:
+
 - 🔭 I did my FYP on [Sales Prediction on Store Using Machine Learning](https://youtu.be/O4Q-zW8cuLM)
 
 - 👯 I’m looking to collaborate on **on a cutting-edge machine learning project that pushes the boundaries of AI and technology. If you share a passion for innovation and want to create something extraordinary, let's team up and make it happen!"**
-
-- 🤝 I’m looking for help with **optimizing my algorithm for a faster runtime and more efficient memory usage. Any insights or guidance would be greatly appreciated!"**
 
 - 🌱 I’m currently learning **WEB 3, Blockchain**
 
@@ -25,9 +25,16 @@
 
 - 📄 Know about my experiences [My Resume](https://www.dropbox.com/scl/fi/t8eun1dpqmug488ca6dmn/AJAR-KHALID-RESUME.pdf?rlkey=wlcr9z8i9jtqdqt3nqhynzmp8&dl=0)
 
-- ⚡ Fun fact **I embarked on my tech journey at the young age of 6, diving headfirst into the world of coding by the time I hit double digits at age 10. Since then, I've become the go-to tech whiz in both my family and college. Whenever someone needs a tech-savvy hand, I'm their first choice – the trusted troubleshooter of all things digital.**
+⚡ Fun fact
 
-<h3 align="left">Connect with me:</h3>
+ - **I embarked on my tech journey at the young age of 6, diving headfirst into the world of coding by the time I hit double digits at age 10. Since then, I've become the go-to tech whiz in both my family and college. Whenever someone needs a tech-savvy hand, I'm their first choice.**
+-   🖥️ I have worked in IT for over half my life.
+-   📊 I have developed and deployed over 70+ projects combined.
+-   📚 I'm reading a book about financial technology to familiarize myself with the industry and its ongoing trends.
+-   :musical_note: I love to hear Lo-Fi music.
+-   👨‍💻Trusted troubleshooter for all things digital
+
+### Let's Connect :coffee:
 <p align="left">
 <a href="https://twitter.com/its_ajar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_ajar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajarkhalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajarkhalid" height="30" width="40" /></a>
