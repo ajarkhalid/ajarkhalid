@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ajarkhalid@gmail.com**
 
-- 📄 Know about my experiences [Ajar Khalid](www.ajarkhalid.com)
+- 📄 Know about my experiences [See Portfolio](www.ajarkhalid.com)
 
 ⚡ Fun fact
 
