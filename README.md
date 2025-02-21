@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ajarkhalid@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.dropbox.com/scl/fi/t8eun1dpqmug488ca6dmn/AJAR-KHALID-RESUME.pdf?rlkey=wlcr9z8i9jtqdqt3nqhynzmp8&dl=0)
+- 📄 Know about my experiences [Ajar Khalid](www.ajarkhalid.com)
 
 ⚡ Fun fact
 
